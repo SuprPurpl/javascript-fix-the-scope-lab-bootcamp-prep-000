@@ -4,7 +4,7 @@ function myAninal() {
   return animal
 }
 
-function yourAnimal('cat') {
+function yourAnimal("cat") {
   return `${a}`
 }
 
