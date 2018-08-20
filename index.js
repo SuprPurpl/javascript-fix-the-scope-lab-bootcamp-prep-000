@@ -1,5 +1,5 @@
 
-function myAninal() {
+function myAminal() {
   var animal = 'dog'
   return animal
 }
